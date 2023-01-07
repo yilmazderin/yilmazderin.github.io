@@ -23,6 +23,7 @@
     font-size: 1.5rem;
     color: var(--title-color);
     font-weight: var(--font-bold);
+    transition: 0.3s;
 }
 
 .logo_pic {
@@ -34,4 +35,8 @@
     font-size: var(--small-font-size);
     transform: rotate(-180deg);
     writing-mode: vertical-rl;
+}
+
+.nav__link:hover {
+    color: hsl(43, 100%, 68%);
 }
