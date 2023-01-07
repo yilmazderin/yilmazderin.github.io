@@ -1,0 +1,19 @@
+.experience1__container {
+    grid-template-columns: 3fr 9fr;
+    column-gap: 1.875rem;
+}
+
+.experience1__data {
+    padding: 1.875rem;
+    background-color: var(--container-color);
+    box-shadow: var(--shadow);
+    border-radius: var(--border-radius);
+}
+
+.etds,
+.ws,
+.wai {
+    width:  150px;
+    height: 150px;
+    object-fit: cover;
+}
