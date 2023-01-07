@@ -3,7 +3,7 @@ import './App.css';
 import Sidebar from './components/sidebar/Sidebar';
 import Home from './components/home/Home';
 import About from './components/about/About';
-import Services from './components/services/Services';
+import Experiences from './components/experiences/Experiences';
 import Resume from './components/resume/Resume';
 import Portfolio from './components/portfolio/Portfolio';
 import Pricing from './components/pricing/Pricing';
@@ -18,8 +18,11 @@ function App() {
       <Sidebar />
       <main className='main'>
         <Home />
+        <Experiences />
+        <Portfolio />
         <About />
-        <Services />
+        <Contact />
+
         <Resume />
         <Portfolio />
         <Pricing />

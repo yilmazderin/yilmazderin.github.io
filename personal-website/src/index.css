@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap');
 
 :root {
-  --first-color: hsl(353, 100%, 65%);
+  --first-color: hsl(291, 94%, 39%);
   --title-color: hsl(244, 24%, 26%);
   --text-color: hsl(244, 16%, 43%);
   --body-color: hsl(258, 60%, 98%);
@@ -19,7 +19,7 @@
   --font-semibold: 600;
   --font-bold: 700;
 
-  --shadown: 0px 5px 20px 0px rgb(69 67 96/ 10%);
+  --shadow: 0px 5px 20px 0px rgb(69 67 96/ 10%);
 
   --border-radius: 20px;
 }
