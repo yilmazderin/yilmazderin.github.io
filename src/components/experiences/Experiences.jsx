@@ -11,7 +11,10 @@ const Experiences = () => {
 
             <div className="experience1__container grid">
 
-                <img src={ws} alt="" className="ws" />
+                <a href= "https://wiredsolutions.ca/" target = "_blank">
+                <img src={ws} alt="" className="ws" /> 
+                </a>
+                
                 <div className="experience1__data grid">
                     <div className="experience1__info">
                         <h2 className="experience1__title">Wired Solutions</h2>
@@ -23,7 +26,9 @@ const Experiences = () => {
 
             <div className="experience1__container grid">
 
-                <img src={etds} alt="" className="etds" />
+                <a href= "https://eagletruckdrivingschool.com/" target = "_blank">
+                <img src={etds} alt="" className="ws" /> 
+                </a>
                 <div className="experience1__data grid">
                     <div className="experience1__info">
                         <h2 className="experience1__title">Eagle Truck Driving School</h2>
@@ -35,7 +40,9 @@ const Experiences = () => {
 
             <div className="experience1__container grid">
 
-                <img src={wai} alt="" className="wai" />
+                <a href= "https://club-spotlight.ca/western-ai/" target = "_blank">
+                <img src={wai} alt="" className="wai" /> 
+                </a>
                 <div className="experience1__data grid">
                     <div className="experience1__info">
                         <h2 className="experience1__title">Western AI</h2>
