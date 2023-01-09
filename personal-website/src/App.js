@@ -4,7 +4,7 @@ import Sidebar from './components/sidebar/Sidebar';
 import Home from './components/home/Home';
 import About from './components/about/About';
 import Experiences from './components/experiences/Experiences';
-import Resume from './components/resume/Resume';
+import Education from './components/education/Education';
 import Portfolio from './components/portfolio/Portfolio';
 import Pricing from './components/pricing/Pricing';
 import Testimonials from './components/testimonials/Testimonials';
@@ -19,11 +19,11 @@ function App() {
       <main className='main'>
         <Home />
         <Experiences />
-        <Portfolio />
+        <Education />
         <About />
         <Contact />
 
-        <Resume />
+       
         <Portfolio />
         <Pricing />
         <Testimonials />
