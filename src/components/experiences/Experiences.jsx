@@ -4,7 +4,7 @@ import etds from '../../assets/etds-modified.png'
 import ws from '../../assets/wslogo.png'
 import wai from '../../assets/wai.png'
 
-const Services = () => {
+const Experiences = () => {
     return (
         <section className="experiences section container" id='experiences'>
             <h2 className="section__title">Experiences</h2>
@@ -48,4 +48,4 @@ const Services = () => {
     )
 }
 
-export default Services
+export default Experiences
