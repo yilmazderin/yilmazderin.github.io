@@ -21,7 +21,7 @@ const Home = () => {
 
                 <ScrollDown />
             </div>
-            <Shapes />
+            
         </section>
     );
 };
