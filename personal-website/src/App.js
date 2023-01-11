@@ -10,6 +10,7 @@ import Pricing from './components/pricing/Pricing';
 import Testimonials from './components/testimonials/Testimonials';
 import Blog from './components/blog/Blog';
 import Contact from './components/contact/Contact';
+import Shapes from './components/home/Shapes'
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
     <>
       <Sidebar />
       <main className='main'>
+        <Shapes />
         <Home />
         <Experiences />
         <Education />
