@@ -7,9 +7,8 @@ import Shapes from './Shapes';
 
 const Home = () => {
     return (
-        <section className="home container" id="home">
-            
-            
+        <section className="home container" id="home">  
+                  
             <div className="intro">
               
                 <img src = {ME} alt = "" className="personal-pic" />
@@ -23,8 +22,6 @@ const Home = () => {
 
                 <ScrollDown />
             </div>
-
-            
             
         </section>
     );
