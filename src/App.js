@@ -22,13 +22,6 @@ function App() {
         <Education />
         <About />
         <Contact />
-
-       
-        <Portfolio />
-        <Pricing />
-        <Testimonials />
-        <Blog />
-        <Contact />
       </main>
     </>
   );
