@@ -1,5 +1,6 @@
-.resume__conatainer{
+.education__conatainer{
     column-gap: 1.875rem;
+    
 }
 
 .timeline {
@@ -8,6 +9,10 @@
     border-radius: var(--border-radius);
     position: relative;
     box-shadow: var(--shadow);
+    padding-left: 3.5rem;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .timeline__item {
