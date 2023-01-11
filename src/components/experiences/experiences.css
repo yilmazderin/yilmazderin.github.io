@@ -11,6 +11,14 @@
     border-radius: var(--border-radius);
 }
 
+.ex1_date {
+    padding-top: 5px;
+    font-size: var(--smaller-font-size);
+}
+
+.experience1__description {
+    font-size: var(--small-font-size);
+}
 .etds,
 .ws,
 .wai {
