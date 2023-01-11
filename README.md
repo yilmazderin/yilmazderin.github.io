@@ -1,1 +1,0 @@
-# yilmazderin.github.io
