@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2cdd947.css",
+    "main.js": "/static/js/main.ed92e487.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/derin.png": "/static/media/derin.6d55979f3b5a434c55c6.png",
+    "static/media/dyilmaz.png": "/static/media/dyilmaz.b09fb3e0d7e038f7b295.png",
+    "static/media/wai.png": "/static/media/wai.334ba73b13eff079a382.png",
+    "static/media/wslogo.png": "/static/media/wslogo.fe442c84460e30e6447a.png",
+    "static/media/dy-logo-removebg-preview.png": "/static/media/dy-logo-removebg-preview.35ff89912863a729fc40.png",
+    "static/media/etds-modified.png": "/static/media/etds-modified.6a3c865dca31c2784c7e.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/dots-bg.svg": "/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/index.html",
+    "main.d2cdd947.css.map": "/static/css/main.d2cdd947.css.map",
+    "main.ed92e487.js.map": "/static/js/main.ed92e487.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2cdd947.css",
+    "static/js/main.ed92e487.js"
+  ]
+}
