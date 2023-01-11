@@ -35,25 +35,6 @@ const Sidebar = () => {
                             <i className='icon-user-following'></i>
                             </a>
                         </li>
-
-                        <li className="nav__item">
-                            <a href="#portfolio" className="nav__link">
-                            <i className='icon-layers'></i>
-                            </a>
-                        </li>
-
-                        <li className="nav__item">
-                            <a href="#blog" className="nav__link">
-                            <i className='icon-note'></i>
-                            </a>
-                        </li>
-                        
-                        <li className="nav__item">
-                            <a href="#contact" className="nav__link">
-                            <i className='icon-bubble'></i>
-                            </a>
-                        </li>
-
                     </ul>
                 </div>
             </nav>
