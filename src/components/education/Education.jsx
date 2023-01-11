@@ -18,7 +18,9 @@ const Education = () => {
                                 icon={val.icon} 
                                 title={val.title}
                                 year = {val.year}
-                                desc = {val.desc} />
+                                desc = {val.desc}
+                                desc1 = {val.desc1}
+                                desc2 = {val.desc2} />
                              )
                         }
                     })}
