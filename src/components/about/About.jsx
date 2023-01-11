@@ -12,48 +12,28 @@ const About = () => {
                 <img src={Aboutme} alt="" className="about__img" />
                 <div className="about__data grid">
                     <div className="about__info">
-                        <p className="about__description">My name is Derin Yilmaz. I </p>
-                        <a href="" className="btn">Download Resume</a>
                     </div>
 
                     <div className="about__skills grid">
                         <div className="skills__data">
                             <div className="skills__titles">
-                                <h3 className="skills__name">Development</h3>
-                                <span className="skills_number development">90%</span>
+                                <h3 className="skills__name">Hey everyone! Thanks for check ouy my website :)</h3>
+                                <span className="skills_number development">I am in my third year at Western University </span>
                             </div>
+                            <a href="" className="btn">Download Resume</a>
                             <div className="skills_bar">
                                 <span className="skills__percentage"></span>
                             </div>
                         </div>
-
-                        <div className="skills__data">
-                            <div className="skills__titles">
-                                <h3 className="skills__name">UI/UX Design</h3>
-                                <span className="skills_number">80%</span>
-                            </div>
-                            <div className="skills_bar">
-                                <span className="skills__percentage ui__design"></span>
-                            </div>
-                        </div>
-
-                        <div className="skills__data">
-                            <div className="skills__titles">
-                                <h3 className="skills__name">Photography</h3>
-                                <span className="skills_number photography">60%</span>
-                            </div>
-                            <div className="skills_bar">
-                                <span className="skills__percentage"></span>
-                            </div>
-                        </div>
-
-                        <iframe src="https://open.spotify.com/embed/playlist/753Lh5cWKzjRyJflxRvrG4?theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
                         
-                    </div>
-                    
+
+                                                
+                    </div>                    
                 </div>
             </div>
+            <h3 className="playlist">Here's what I am listening to</h3>
+            <iframe src="https://open.spotify.com/embed/playlist/753Lh5cWKzjRyJflxRvrG4?theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
         </section>
     )
 }

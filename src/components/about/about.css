@@ -1,6 +1,7 @@
 .about__container {
     grid-template-columns: 3fr 9fr;
     column-gap: 1.875rem;
+    padding-bottom: 2rem;
 }
 
 .about__data {
