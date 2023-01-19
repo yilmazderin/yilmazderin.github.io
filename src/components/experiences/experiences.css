@@ -31,3 +31,7 @@
     transform: scale(1.25);
     transition: 0.3s;
 }
+
+.ws:hover::after {
+    transition: 0.3s;
+}

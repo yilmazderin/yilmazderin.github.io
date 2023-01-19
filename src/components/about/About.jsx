@@ -1,6 +1,7 @@
 import React from 'react';
 import "./about.css";
 import Aboutme from '../../assets/dyilmaz.png'
+import Resume from '../../assets/Resume.pdf'
 
 const About = () => {
     return (
@@ -20,7 +21,7 @@ const About = () => {
                                 <h3 className="skills__name">Hey everyone! Thanks for check ouy my website :)</h3>
                                 <span className="skills_number development">I am currently in my third year at Western University, studying Software Engineering with a minor in Mathematics. Some of my favourite hobbies include travelling the world, finding new music (I attatched my favourite playlist below) and learning new songs on the guitar. If you have any questions feel free to message me on my LinkedIn or sending me an email at yilmaz2002derin@gmail.com . I hope you have an amazing day!</span>
                             </div>
-                            <a href="src/assets/Derin Yilmaz Resume.pdf" className="btn1" download="Derin Yilmaz Resume">Download Resume</a> 
+                            <a href={Resume} className="btn1" download="Derin Yilmaz Resume">Download Resume</a> 
                         </div>
                     </div>                    
                 </div>
