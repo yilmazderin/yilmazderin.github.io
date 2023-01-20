@@ -8,7 +8,7 @@ import Education from './components/education/Education';
 import Portfolio from './components/portfolio/Portfolio';
 import Pricing from './components/pricing/Pricing';
 import Testimonials from './components/testimonials/Testimonials';
-import Blog from './components/blog/Blog';
+import Tools from './components/tools/Tools';
 import Contact from './components/contact/Contact';
 import Shapes from './components/home/Shapes'
 
@@ -22,6 +22,7 @@ function App() {
         <Home />
         <Experiences />
         <Education />
+        <Tools />
         <About />
       </main>
     </>

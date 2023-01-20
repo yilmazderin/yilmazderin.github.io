@@ -25,13 +25,13 @@
     width:  150px;
     height: 150px;
     object-fit: cover;
+    transition: all 0.3s ease;
 }
 
 .ws:hover {
     transform: scale(1.25);
-    transition: 0.3s;
 }
 
-.ws:hover::after {
-    transition: 0.3s;
+.wai:hover {
+    transform: scale(1.25);
 }
