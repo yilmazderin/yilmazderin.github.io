@@ -7,7 +7,7 @@ const Data = [
         title: "Software Engineering, BESc",
         desc: "Mathematics Minor",
         desc1: "Honours with Distinction",
-        desc2: "GPA: 3.6"
+        desc2: "GPA: 3.7"
     },
     {
         id: 2,
@@ -17,7 +17,7 @@ const Data = [
         title: "International Baccalaurette Programme",
         desc: "Higher Level: Mathematics, Chemistry, English",
         desc1: "Standard Level: Physics, French, Business",
-        desc2: "IB Score: 34"
+        desc2: "IB Score: 38"
 
     },
     {
@@ -27,7 +27,7 @@ const Data = [
         year: " Assumption College Highschool, 2016-2020",
         title: "Ontario Secondary School Diploma",
         desc: "Principle's Circle",
-        desc1: "Average: 93%"
+        desc1: "Average: 94%"
     }
 ]
 

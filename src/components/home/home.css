@@ -36,7 +36,7 @@
 }
 
 .home__social-link:hover {
-    color: hsl(294, 100%, 68%);
+    color: #00b4d8;
 }
 
 .scroll__down {
@@ -92,8 +92,8 @@
 .shapes {
     position: absolute;
     left: 0;
-    top: 0;
-    height: 100%;
+    top: 100;
+    height: 0%;
     width: 100%;   
 }
 
@@ -102,23 +102,26 @@
 }
 
 .s1 {
-    left: 2%;
+    left: 20%;
     top: 10%;
+}
+.s1:hover{
+    transform: scale(2);
 }
 
 .s2 {
-    left: 18%;
-    top: 30%;
+    left: 10%;
+    top: 48%;
 }
 
 .s3 {
-    left: 5%;
-    bottom: 30%;
+    right: 25%;
+    bottom: 63%;
 }
 
 .s4 {
-    left: 2%;
-    bottom: 10%;
+    left: 20%;
+    bottom: 60%;
 }
 
 .s5 {
@@ -127,31 +130,63 @@
 }
 
 .s6 {
-    left: 36%;
-    bottom: 10%;
+    left: 30%;
+    bottom: 73%;
 }
 
 .s7 {
     top: 20%;
-    right: 25%;
+    right: 35%;
 }
 
 .s8 {
-    right: 24%;
-    bottom: 20%;
+    left: 70%;
+    bottom: 65%;
 }
 
 .s9 {
-    right: 2%;
+    right: 20%;
     top: 10%;
 }
 
 .s10 {
-    top: 45%;
-    right: 11%;
+    top: 20%;
+    left: 11%;
 }
 
 .s11 {
-    bottom: 10%;
-    right: 2%;
+    bottom: 50%;
+    right: 10%;
+}
+
+.s11, .s7, .s1, .s4 {
+    color: #03045e;
+    font-weight: bold;
+}
+
+.s2, .s6, .s9, .s3 {
+    color: #00b4d8;
+    font-weight: bold;
+}
+
+.s8, .s5, .s10 {
+    color: #0077b6;
+    font-weight: bold;
+}
+
+.shape {
+    position: absolute;
+    transform: rotate(var(--rotation));
+}
+
+.shape:hover {
+    transform: rotate(var(--rotation)) scale(1.1);
+}
+
+.words .shape:hover {
+    transform: rotate(var(--rotation)) scale(1.1);
+}
+
+div.words span.shape:hover {
+    transform: rotate(var(--rotation)) scale(1.1);
 }

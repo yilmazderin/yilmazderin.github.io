@@ -18,6 +18,25 @@ const Experiences = () => {
                 <div className="experience1__data grid">
                     <div className="experience1__info">
                         <h2 className="experience1__title">Wired Solutions</h2>
+                        <h3 className="experience1__name">Machine Learning Developer</h3>
+                        <h3 className="ex1_date">January 2023 - August 2023</h3>
+                        <p className="experience1__description">- Trained a natural language processing (NLP) model to efficiently differentiate various insurance plans, trained using over 10,000 detailed insurance documents, highlighting robust data-driven decision-making capabilities.</p>
+                        <p className="experience1__description">- Designed and implemented a machine learning model with a 93% precision rate that predicts class subjects based on course descriptions, improving cataloging efficiency for academic institutions.</p>
+                        <p className="experience1__description">- Extracted and refined data from 8,000 Ontario university courses, demonstrating a comprehensive approach to data collection and preparation for advanced analytics.
+</p>
+                    </div>
+                </div>
+            </div>
+
+            <div className="experience1__container grid">
+
+                <a href= "https://wiredsolutions.ca/" target = "_blank">
+                <img src={ws} alt="" className="ws" /> 
+                </a>
+                
+                <div className="experience1__data grid">
+                    <div className="experience1__info">
+                        <h2 className="experience1__title">Wired Solutions</h2>
                         <h3 className="experience1__name">Junior Developer</h3>
                         <h3 className="ex1_date">May 2022 - December 2022</h3>
                         <p className="experience1__description">Created a natural language processing model to predict the subject of a course based on the course description.</p>
