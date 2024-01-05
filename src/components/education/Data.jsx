@@ -7,7 +7,7 @@ const Data = [
         title: "Software Engineering, BESc",
         desc: "Mathematics Minor",
         desc1: "Honours with Distinction",
-        desc2: "GPA: 3.7"
+        desc2: "GPA: 3.9"
     },
     {
         id: 2,

@@ -11,6 +11,7 @@ import Testimonials from './components/testimonials/Testimonials';
 import Tools from './components/tools/Tools';
 import Contact from './components/contact/Contact';
 import Shapes from './components/home/Shapes'
+import Project from './components/projects/Projects';
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <Home />
         <Experiences />
         <Education />
+        <Project />
         <Tools />
         <About />
       </main>

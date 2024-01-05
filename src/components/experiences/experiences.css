@@ -21,7 +21,8 @@
 }
 .etds,
 .ws,
-.wai {
+.wai,
+.rbc{
     width:  150px;
     height: 150px;
     object-fit: cover;
@@ -34,4 +35,12 @@
 
 .wai:hover {
     transform: scale(1.25);
+}
+
+.rbc:hover {
+    transform: scale(1.25);
+}
+
+.rbc {
+    border-radius: 50%;
 }

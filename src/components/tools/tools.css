@@ -1,0 +1,47 @@
+.icon-container {
+    text-align: center; /* Centers the icons if you want */
+    margin-bottom: 20px;
+    /* Add other styling as needed */
+}
+
+.icon-container img {
+
+    height: 90px; /* Set a fixed height */
+    object-fit: contain; /* This ensures that the icons maintain their aspect ratio */
+    margin-right: 10px; /* Adjust spacing as needed */
+    transition: all 0.3s ease; /* Add transition */
+    margin: 20px;
+}
+
+.icon-container img:hover {
+    transform: scale(1.25); /* Increases the size of the icon on hover */
+    /* Add other styling as needed */
+}
+
+.my__languages {
+    text-align: center;
+}
+
+.icon {
+    display: inline-block;
+    position: relative;
+    margin: 20px;
+}
+
+.icon-name {
+    display: none;
+    position: absolute;
+    bottom: -20px; /* Adjust as needed */
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    color: black; /* Choose a color */
+}
+
+.icon:hover .icon-name {
+    display: block;
+    transition: all 0.3s ease;
+}
+
+
+
