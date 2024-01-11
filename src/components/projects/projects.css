@@ -1,0 +1,12 @@
+
+.slider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slider img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}

@@ -92,7 +92,7 @@ const Tools = () => {
                 </div>
                 <div className = "icon">
                     <img src = {Sql} alt = "" className="lang-pic" />
-                    <span className="icon-name">Sql</span>
+                    <span className="icon-name">SQL</span>
                 </div>
             </div>
             <h3 className="my__languages">Data Science Technologies</h3>

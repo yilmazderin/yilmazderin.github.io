@@ -23,7 +23,6 @@ function App() {
         <Home />
         <Experiences />
         <Education />
-        <Project />
         <Tools />
         <About />
       </main>

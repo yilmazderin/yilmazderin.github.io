@@ -22,7 +22,7 @@ const Home = () => {
 
                 <a href='#experiences' className='btn'>Get to know me!</a>
 
-                <ScrollDown />
+
             </div>
             
         </section>

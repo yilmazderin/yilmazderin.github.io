@@ -19,7 +19,7 @@ const Experiences = () => {
                 <div className="experience1__data grid">
                     <div className="experience1__info">
                         <h2 className="experience1__title">Royal Bank of Canada (RBC)</h2>
-                        <h3 className="experience1__name">Software Developer Intern</h3>
+                        <h3 className="experience1__name">Student Software Developer</h3>
                         <h3 className="ex1_date">September 2023 - April 2024</h3>
                         <p className="experience1__description">- Led the initiation and development of an advanced generative AI model, achieving a 95% accuracy rate in predictive simulations, designed to assist individuals in reducing their carbon emissions.</p>
                         <p className="experience1__description">- Prioritized data integrity and adhered to ethical standards in information usage, successfully processing and integrating over 3000 data points across various formats such as PDFs, CSVs, images, and links during model training.</p>
@@ -37,7 +37,7 @@ const Experiences = () => {
                 <div className="experience1__data grid">
                     <div className="experience1__info">
                         <h2 className="experience1__title">Wired Solutions</h2>
-                        <h3 className="experience1__name">Machine Learning Developer Intern</h3>
+                        <h3 className="experience1__name">Machine Learning Developer</h3>
                         <h3 className="ex1_date">January 2023 - August 2023</h3>
                         <p className="experience1__description">- Trained a natural language processing (NLP) model to efficiently differentiate various insurance plans, trained using over 10,000 detailed insurance documents, highlighting robust data-driven decision-making capabilities.</p>
                         <p className="experience1__description">- Designed and implemented a machine learning model with a 93% precision rate that predicts class subjects based on course descriptions, improving cataloging efficiency for academic institutions.</p>
@@ -55,7 +55,7 @@ const Experiences = () => {
                 <div className="experience1__data grid">
                     <div className="experience1__info">
                         <h2 className="experience1__title">Wired Solutions</h2>
-                        <h3 className="experience1__name">Junior Developer Intern</h3>
+                        <h3 className="experience1__name">Junior Developer</h3>
                         <h3 className="ex1_date">May 2022 - December 2022</h3>
                         <p className="experience1__description">Created a natural language processing model to predict the subject of a course based on the course description.</p>
                         <p className="experience1__description">Collaborated with a team of frontend developers to create a feature of a new LMS website for users to draft schedules</p>
