@@ -1,6 +1,6 @@
 import React from 'react';
 import "./home.css";
-import ME from '../../assets/derin.png'
+import ME from '../../assets/derinpic-modified.png'
 import HeaderSocials from './HeaderSocials';
 import ScrollDown from './ScrollDown';
 import Shapes from './Shapes';
